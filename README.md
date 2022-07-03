@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dizabanik
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently good in C#, C, C++, Kawa and learning Python, JavaScript, Ruby
 - 📫 How to reach me goshasha67@gmail.com
 
 <!---
