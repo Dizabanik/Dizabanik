@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dizabanik
 - 👀 I’m interested in programming
-- 🌱 I’m currently good in C, C#, C++, Kawa, Python, JavaScript, Rust and learning Ruby
+- 🌱 I’m currently good in C, C#, C++, Kawa, Python, JavaScript, Rust and learning Ruby, Go
 - 📫 How to reach me goshasha67@gmail.com
 
 <!---
