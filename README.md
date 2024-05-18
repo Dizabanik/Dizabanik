@@ -28,11 +28,17 @@
       </a>
       <br>C
     </td>
+    <td align="center"  width="96">
+      <a href="#my-open-source-projects">
+        <img src="https://cdn.simpleicons.org/go/_" width="48" height="48" alt="Go" />
+      </a>
+      <br>Go
+    </td>
     <td align="center" width="96">
       <a href="#my-open-source-projects">
         <img src="/assembly.svg" width="48" height="48" alt="Assembly" />
       </a>
-      <br>Assembly x86
+      <br>ASM x86
     </td>
     <td align="center" width="96">
       <a href="#my-open-source-projects">
@@ -45,12 +51,6 @@
         <img src="https://cdn.simpleicons.org/cplusplus/_" width="48" height="48" alt="C++" />
       </a>
       <br>C++
-    </td>
-    <td align="center"  width="96">
-      <a href="#my-open-source-projects">
-        <img src="https://cdn.simpleicons.org/go/_" width="48" height="48" alt="Go" />
-      </a>
-      <br>Go
     </td>
     <td align="center" width="96">
       <a href="#my-open-source-projects" >
