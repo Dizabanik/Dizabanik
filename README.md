@@ -1,4 +1,6 @@
-<img src="https://github.com/Dizabanik/Dizabanik/blob/d87c440eb03e1e0e4dbb9faaf2ddc5b8a5454b69/messagif-ezgif.com-loop-count.gif" align="center">
+<div align="center">
+  <img src="https://github.com/Dizabanik/Dizabanik/blob/d87c440eb03e1e0e4dbb9faaf2ddc5b8a5454b69/messagif-ezgif.com-loop-count.gif">
+</div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/heorhii-kotiuk-bb28562b3?utm_source=share&utm_campaign=share_via&utm_content=profile">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,9 +24,9 @@
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/dizabanik/fissure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=fissure&theme=tokyonight"></a>
-    <a href="https://github.com/dizabanik/fissure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=fissure&theme=tokyonight"></a>
-    <a href="https://github.com/dizabanik/fissure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=fissure&theme=tokyonight"></a>
+    <a href="https://github.com/dizabanik/fissure"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=fissure&theme=tokyonight&hide_border=true"></a>
+    <a href="https://github.com/dizabanik/vWv"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=vWv&theme=tokyonight&hide_border=true"></a>
+    <a href="https://github.com/dizabanik/fissure"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=fissure&theme=tokyonight&hide_border=true"></a>
   </p>
 </details>
 
