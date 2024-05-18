@@ -9,6 +9,9 @@
     <img src="https://img.shields.io/badge/WebSite-grey?style=for-the-badge&logo=web&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+<div align="center">
+  <img src="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7" width="600" height="300"/>
+</div>
 - 👋 Hi, I’m @Dizabanik
 - 👀 I’m interested in programming
 - 🌱 I’m currently good in C, C#, C++, Kawa, Python, JavaScript, Rust and learning Ruby, Go
