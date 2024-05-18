@@ -20,6 +20,7 @@
   <p>
     I am a Software Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWV3b3BybTlwczBnZ2wzeHExNDE4MmRtZWkyZjZ2bWQ5eGwxNmYzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="30"> from Ukraine.
   </p>
+  <h2 align="left">Favorite Tech</h2>
   <table>
   <tr>
     <td align="center" width="96">
