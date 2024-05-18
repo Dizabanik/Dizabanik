@@ -84,6 +84,14 @@
     <a href="https://github.com/dizabanik/netman"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=netman&theme=tokyonight&hide_border=true"></a>
   </p>
 </details>
+## Not Published Projects I'm currently working on
+- *KWAS* custom assembler using C from scratch
+- *Wexlib* C library with tons of functions, data structures, etc.
+- *cUc* C server library
+- *Kawa* programming language using C
+- *Cornflake* game and application engine written in C
+- *AI* for creatures in *Cornflake Engine*
+- *cUcf* file transfer using *cUc* in C
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=I%20use%20Arch%20btw&author=idk">
 </div>
