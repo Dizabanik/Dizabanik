@@ -1,3 +1,4 @@
+<img src="https://github.com/Dizabanik/Dizabanik/blob/d87c440eb03e1e0e4dbb9faaf2ddc5b8a5454b69/messagif-ezgif.com-loop-count.gif" align="center">
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/heorhii-kotiuk-bb28562b3?utm_source=share&utm_campaign=share_via&utm_content=profile">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
