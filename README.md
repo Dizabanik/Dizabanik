@@ -10,7 +10,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTQ1NW42b2hnbHJzcW9tM2I5NDJ5bDN2NHVleTQ0c3dsMXA4Mmw2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="600" height="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTQ1NW42b2hnbHJzcW9tM2I5NDJ5bDN2NHVleTQ0c3dsMXA4Mmw2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="600"/>
 </div>
 - 👋 Hi, I’m @Dizabanik
 - 👀 I’m interested in programming
