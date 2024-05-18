@@ -24,58 +24,58 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://simpleicons.org/icons/c.svg" width="48" height="48" alt="C" />
+        <img src="https://cdn.simpleicons.org/c/_" width="48" height="48" alt="C" />
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://cdn.simpleicons.org/archlinux/_" width="48" height="48" alt="Arch Linux" />
+      </a>
+      <br>Arch Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.simpleicons.org/javascript/_" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.simpleicons.org/cplusplus/_" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.simpleicons.org/go/_" width="48" height="48" alt="Go" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://cdn.simpleicons.org/docker/_" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://cdn.simpleicons.org/python/_" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://cdn.simpleicons.org/gnubash/_" width="48" height="48" alt="Bash" />
       </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
+      <br>Bash
     </td>
   </tr>
 </table>
 
 </details>
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>My Open Source Projects</h2></summary>
   <p align="left">
     <a href="https://github.com/dizabanik/fissure"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=fissure&theme=tokyonight&hide_border=true"></a>
     <a href="https://github.com/dizabanik/vWv"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=vWv&theme=tokyonight&hide_border=true"></a>
