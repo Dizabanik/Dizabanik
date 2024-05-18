@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://dizabanik.github.io/">
-    <img src="https://img.shields.io/badge/WebSite-grey?style=for-the-badge&logo=website&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/WebSite-grey?style=for-the-badge&logo=web&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 - 👋 Hi, I’m @Dizabanik
