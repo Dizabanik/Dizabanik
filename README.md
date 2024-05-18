@@ -96,5 +96,5 @@
 - **AI** for creatures in **Cornflake Engine**
 - **cUcf** file transfer using **cUc** in C
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=I%20use%20Arch%20btw&author=idk">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=I%20use%20Arch%20btw.&author=idk">
 </div>
