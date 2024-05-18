@@ -30,9 +30,9 @@
     </td>
     <td align="center" width="96">
       <a href="#my-open-source-projects">
-        <img src="https://cdn.simpleicons.org/archlinux/_" width="48" height="48" alt="Arch Linux" />
+        <img src="/assembly.svg" width="48" height="48" alt="Assembly" />
       </a>
-      <br>Arch Linux
+      <br>Assembly x86
     </td>
     <td align="center" width="96">
       <a href="#my-open-source-projects">
@@ -83,5 +83,5 @@
   </p>
 </details>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=I%20use%20Arch%20btw&author=Sigma">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=I%20use%20Arch%20btw&author=idk">
 </div>
