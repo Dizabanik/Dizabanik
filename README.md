@@ -31,7 +31,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#my-open-source-projects">
-        <img src="https://cdn.simpleicons.org/cplusplus/_" width="48" height="48" alt="Go" />
+        <img src="https://cdn.simpleicons.org/cplusplus/_" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
@@ -49,9 +49,9 @@
     </td>
     <td align="center" width="96">
       <a href="#my-open-source-projects">
-        <img src="https://cdn.simpleicons.org/cplusplus/_" width="48" height="48" alt="C++" />
+        <img src="https://cdn.simpleicons.org/linux/_" width="48" height="48" alt="Linux" />
       </a>
-      <br>C++
+      <br>Linux/MacOS
     </td>
     <td align="center" width="96">
       <a href="#my-open-source-projects" >
