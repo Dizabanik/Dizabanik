@@ -31,9 +31,9 @@
     </td>
     <td align="center"  width="96">
       <a href="#my-open-source-projects">
-        <img src="https://cdn.simpleicons.org/go/_" width="48" height="48" alt="Go" />
+        <img src="https://cdn.simpleicons.org/cplusplus/_" width="48" height="48" alt="Go" />
       </a>
-      <br>Go
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#my-open-source-projects">
