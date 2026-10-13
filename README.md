@@ -22,10 +22,10 @@
 <details open> 
   <summary><h2>My Open Source Projects</h2></summary>
   <p align="left">
+        <a href="https://github.com/dizabanik/still"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=still&theme=vision-friendly-dark&hide_border=true"></a>
     <a href="https://github.com/dizabanik/kama"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=kama&theme=vision-friendly-dark&hide_border=true"></a>
     <a href="https://github.com/dizabanik/rstack"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=rstack&theme=vision-friendly-dark&hide_border=true"></a>
-    <a href="https://github.com/dizabanik/timbr"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=timbr&theme=vision-friendly-dark&hide_border=true"></a>
-    <a href="https://github.com/dizabanik/fwc"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=fwc&theme=vision-friendly-dark&hide_border=true"></a>
+        <a href="https://github.com/dizabanik/fwc"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=fwc&theme=vision-friendly-dark&hide_border=true"></a>
   </p>
 </details>
 
@@ -82,16 +82,3 @@
     </td>
   </tr>
 </table>
-
------
-
-## Not Published Projects I'm currently working on
-- **KWAS** custom assembler using C from scratch
-- **Wexlib** C library with tons of functions, data structures, extremely fast ECS system, etc.
-- **wecs** C ECS system
-- **Kawa** programming language using C and LLVM IR
-- **Cedar** game and application engine written in C, utilizing kama and wecs
-- Also studying 'Deep Learning', math behind it, and possible integrations with Quantum programming
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=I%20use%20Arch%20btw.&author=idk">
-</div>
