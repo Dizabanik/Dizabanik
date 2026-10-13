@@ -26,10 +26,6 @@ generation, memory management, operating systems, and performance optimization.
 
 ## Selected Projects
 
-### [Still](https://github.com/dizabanik/still)
-Experimental systems-language compiler written in C and targeting LLVM, with
-affine ownership, managed references, static safety analysis, and native code generation.
-
 <p>
   <a href="https://github.com/dizabanik/still">
     <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=still&theme=vision-friendly-dark&hide_border=true">
