@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/heorhii-kotiuk/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://dizabanik.github.io/">
-    <img src="https://img.shields.io/badge/Website-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Website">
-  </a>
 </p>
 
 ---
@@ -65,13 +62,24 @@ generation, memory management, operating systems, and performance optimization.
     <img src="https://cdn.simpleicons.org/linux/_" width="42" height="42" alt="Linux">
     <br>Linux
   </td>
-  <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/cmake/_" width="42" height="42" alt="CMake">
-    <br>CMake
-  </td>
+</tr>
+
+<tr>
   <td align="center" width="96">
     <img src="https://cdn.simpleicons.org/python/_" width="42" height="42" alt="Python">
     <br>Python
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/pytorch/_" width="42" height="42" alt="PyTorch">
+    <br>PyTorch
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/docker/_" width="42" height="42" alt="Docker">
+    <br>Docker
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.simpleicons.org/cmake/_" width="42" height="42" alt="CMake">
+    <br>CMake
   </td>
   <td align="center" width="96">
     <img src="https://cdn.simpleicons.org/git/_" width="42" height="42" alt="Git">
