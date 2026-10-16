@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer Science student at the University of Warsaw (MIMUW)<br>
-  Interested in compilers, systems programming, performance, and low-level software.
+  CS student at MIMUW and founder of FAIENCE. Working across ML research, compilers, systems programming, and high-performance computing.
 </p>
 
 <p align="center">
@@ -21,6 +21,10 @@ compilers, systems programming, high-performance computing, and low-level softwa
 I enjoy working close to the hardware/software boundary: LLVM IR, native code
 generation, memory management, operating systems, and performance optimization.
 
+## Currently
+
+Currently researching Sequoia α, an experimental compact reasoning-classifier architecture, and developing Fjord, a statically typed language/runtime for neuro-symbolic workflows.
+
 ## Selected Projects
 
 <p>
@@ -33,8 +37,8 @@ generation, memory management, operating systems, and performance optimization.
   <a href="https://github.com/dizabanik/rstack">
     <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=rstack&theme=vision-friendly-dark&hide_border=true">
   </a>
-  <a href="https://github.com/dizabanik/fwc">
-    <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=fwc&theme=vision-friendly-dark&hide_border=true">
+  <a href="https://github.com/dizabanik/realistic-smoke">
+    <img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dizabanik&repo=realistic-smoke&theme=vision-friendly-dark&hide_border=true">
   </a>
 </p>
 
